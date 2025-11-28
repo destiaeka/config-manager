@@ -7,7 +7,7 @@ on:
 env:
   AWS_ACCOUNT_ID:	939095374446
   AWS_REGION: us-west-2
-  ECR_REPOSITORY: config-manager
+  ECR_REPOSITORY: config_manager
 
 jobs:
   build:
